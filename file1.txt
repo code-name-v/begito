@@ -1,0 +1,1 @@
+hi this is the test for branching. I'm going to add some feature called Feature1. Once it's finished I'll merge it to the master then.  
